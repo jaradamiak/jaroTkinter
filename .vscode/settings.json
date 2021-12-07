@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "name": "sqllite",
+            "database": "${workspaceFolder:jaroTkinter}/address_book.db"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
